@@ -1,6 +1,7 @@
 # AirlineSatisfaction
+This dataset is taken from : https://www.kaggle.com/datasets/teejmahal20/airline-passenger-satisfaction
  
- This dataset is taken from : https://www.kaggle.com/datasets/teejmahal20/airline-passenger-satisfaction
+ ## Background: An airline is for someone who wants to go to another city or another country. The most crucial factor for some people is comfort when traveling. Unfortunately, airline XYZ only received a customer satisfaction rating of about 50%. In order to raise consumer satisfaction from its current 50% level, we must identify the factors that contribute to this low level.
  
  ## Problem statement:
  1. This airline has a problem with satisfaction level, where the satisfaction level is only around 50%
